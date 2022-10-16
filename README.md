@@ -1,4 +1,4 @@
-# Qual Combustível ? 🚗⛽
+# Qual Combustível ? ⛽
 
 App Qual Combustível ?
 
